@@ -37,7 +37,6 @@ Para executar o projeto, siga os passos abaixo:
     update-database
     ```
 
-3. Utilize o arquivo `script.sql` fornecido para realizar uma carga inicial no banco de dados.
 
 ## Pré-requisitos
 
